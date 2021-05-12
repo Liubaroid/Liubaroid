@@ -1,6 +1,3 @@
-[![Header](https://github.com/Liubaroid/Liubaroid/tree/main/assets/header.png)]
-
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue)
