@@ -1,6 +1,16 @@
 ![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
 
-Skills
+Hi there 👋
+
+const Liubaroid = {
+  name: Liubov,
+  sex: female,
+  country: Russia,
+  languages: [ru, eng],
+  hobbies: [photography, travelling, art, fun],
+}
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=red)
