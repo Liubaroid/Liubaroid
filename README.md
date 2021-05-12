@@ -11,12 +11,12 @@ const Liubaroid = {
 
   country: "Russia",
 
-  pronouns: "she"
+  pronouns: ["she", "her"]
+
+  languages: ["ru", "eng"],
+
+  hobbies: ["photography", "travelling", "reading", "art", "fun"],
 }
-
-
-
-
 
 
 ### :computer: Languages and Tools:
