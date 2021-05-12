@@ -1,6 +1,5 @@
-![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
 
-# About me
+# Hi there! 👋
 
 const Liubaroid = {
 
@@ -20,8 +19,11 @@ const Liubaroid = {
 ![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=red)
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=Node.js&logoColor=brightgreen)
 ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=Express&logoColor=black)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=brightgreen)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue)
 ![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=blueviolet)
 ![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-white?style=for-the-badge&logo=Github&logoColor=blue)
+
+![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
