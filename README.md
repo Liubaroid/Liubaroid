@@ -1,4 +1,4 @@
-[![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)]
+![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
 
 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
