@@ -13,6 +13,9 @@ const Liubaroid = {
 
 }
 
+![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
+
+# ❤️ :computer:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue)
@@ -26,4 +29,4 @@ const Liubaroid = {
 ![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-white?style=for-the-badge&logo=Github&logoColor=blue)
 
-![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
+
