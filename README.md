@@ -1,5 +1,25 @@
 ![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/img.png)
 
+### Hello World, I'm Anna  👋
+
+ <img align="right" alt="GIF" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+
+## 👾 About me  
+
+const Liubaroid = {
+
+  name: Liubov,
+
+  country: Russia,
+
+  pronouns: [she, her]
+
+  languages: [ru, eng],
+
+  hobbies: [photography, travelling, reading, art, fun],
+
+}
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue)
@@ -10,17 +30,5 @@
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue)
 ![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=blueviolet)
 
-# About me 👾 
 
-const Liubaroid = {
-
-  name: Liubov,
-
-  country: Russia,
-
-  languages: [ru, eng],
-
-  hobbies: [photography, travelling, reading, art, fun],
-
-}
 
