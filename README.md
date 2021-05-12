@@ -2,6 +2,7 @@
 
 <h2 align="center"> Hello World! 👋 </h2>
 
+<img align="right" alt="png" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/gitpicE.png?raw=true" width="250" height="250" />
 
 ### 👾 About me  
 
