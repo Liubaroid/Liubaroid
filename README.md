@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hello World! 👋 </h2>
 
- <img align="right" alt="png" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/cia6.png?raw=true"/>
+ <img align="right" alt="png" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/cia6.png?raw=true" width="300" height="300" />
 
 ### 👾 About me  
 
