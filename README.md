@@ -1,18 +1,3 @@
-
-# Hi there! 👋
-
-const Liubaroid = {
-
-  name: Liubov,
-
-  country: Russia,
-
-  languages: [ru, eng],
-
-  hobbies: [photography, travelling, reading, art, fun],
-
-}
-
 ![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
 
 
@@ -25,6 +10,17 @@ const Liubaroid = {
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue)
 ![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=blueviolet)
 
+# About me
 
+const Liubaroid = {
 
+  name: Liubov,
+
+  country: Russia,
+
+  languages: [ru, eng],
+
+  hobbies: [photography, travelling, reading, art, fun],
+
+}
 
