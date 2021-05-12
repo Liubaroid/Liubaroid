@@ -1,8 +1,8 @@
 ![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header2.jpg)
 
-### Hello World! 👋
+<p align="center"> Hello World! 👋 </p>
 
- <img align="right" alt="GIF" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/img.png?raw=true" width="500" height="320" />
+ <img align="right" alt="png" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/img.png?raw=true" width="500" height="320" />
 
 ### 👾 About me  
 
