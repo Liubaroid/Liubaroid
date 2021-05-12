@@ -1,6 +1,6 @@
 ![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header2.jpg)
 
-<p align="center"> Hello World! 👋 </p>
+<h5 align="center" color="blue"> Hello World! 👋 </h5>
 
  <img align="right" alt="png" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/img.png?raw=true" width="500" height="320" />
 
