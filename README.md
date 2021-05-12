@@ -1,7 +1,7 @@
 ![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
 
 
-                About me ⚡
+                                                                    About me ⚡
 
 const Liubaroid = {
 
