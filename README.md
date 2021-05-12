@@ -29,7 +29,7 @@ const Liubaroid = {
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=red)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=brightgreen)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=black)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=brightgreen)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=blueviolet)
