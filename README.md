@@ -1,6 +1,7 @@
 ![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
 
-Hi there 👋
+
+                About me ⚡
 
 const Liubaroid = {
 
@@ -13,7 +14,7 @@ const Liubaroid = {
   languages: [ru, eng],
 
   hobbies: [photography, travelling, art, fun],
-  
+
 }
 
 
