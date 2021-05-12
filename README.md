@@ -1,8 +1,7 @@
-![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/img.png)
 
-### Hello World, I'm Anna  👋
+### Hello World! 👋
 
- <img align="right" alt="GIF" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Liubaroid/Liubaroid/blob/main/assets/img.png?raw=true" width="500" height="320" />
 
 ## 👾 About me  
 
