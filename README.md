@@ -7,15 +7,11 @@
 ### 👾 About me  
 
 const Liubaroid = {
-  name: Liubov,
+  name: "Liubov",
 
-  country: Russia,
+  country: "Russia",
 
-  pronouns: [she, her]
-
-  languages: [ru, eng],
-
-  hobbies: [photography, travelling, reading, art, fun],
+  pronouns: "she"
 }
 
 
