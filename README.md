@@ -1,4 +1,4 @@
-![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/cia4.png)
+![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/cia7.png)
 
 <h2 align="center"> Hello World! 👋 </h2>
 
