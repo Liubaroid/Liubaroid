@@ -1,4 +1,4 @@
-![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/header.png)
+![Header](https://github.com/Liubaroid/Liubaroid/blob/main/assets/img.png)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue)
 ![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=blueviolet)
 
-# About me
+# About me 👾 
 
 const Liubaroid = {
 
