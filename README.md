@@ -24,7 +24,7 @@ const Liubaroid = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=brightgreen)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue)
 ![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=blueviolet)
-![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VSCode-white?style=for-the-badge&logo=Github&logoColor=blue)
+
+
 
 
