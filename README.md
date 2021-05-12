@@ -19,7 +19,7 @@ const Liubaroid = {
 
 }
 
-### Languages and Tools:
+### :computer: Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=red)
